@@ -23,6 +23,17 @@ Bill of Materials:\
 other components are already noted on Alex I myminifactory page.
 
 Wiring:\
-Simply follow the wiring diagram in the for the pcb. wire the 2 audio courses the 3pdt switch to make an audio switch. then simple wire the 12v form the jack to the amplifier and the buck converter. Which is wired to the pcb via a dupont connector(note us the inner most connection with the thickest trace the otherone is for the MH-M28). Lastley add a groundloop isolator to the input side of the transformer(I used a of the shelf one which is plug and play).
+Simply follow the wiring diagram in the for the pcb(note don't forget to add a extension for the last LED which is the middle indicator led). Wire the 2 audio courses the 3pdt switch to make an audio switch. then simple wire the 12v form the jack to the amplifier and the buck converter. Which is wired to the pcb via a dupont connector(note us the inner most connection with the thickest trace the otherone is for the MH-M28). Add a groundloop isolator to the input side of the transformer(I used a of the shelf one which is plug and play).
 Lastely, make a note: HUGE SUCCES!
 
+Requirements/features for Version 2:\
+-Motivation\
+-battery with 12v/5v out\
+-280 jpgs to visualize the channel or a libray which an print warped text.\
+-fast jpg decoder to achieve minimal of 30hz\
+-I2S 16bit Sterio audio source(thus integrating the bleutooth fuctionality in the esp32)\
+-other\
+if these issues are resolved I might make a V2 don't get your hopes up though.
+
+Final Note:\
+Have fun making this project. And feel free to ask any questions in the Isseus/general tab if you have any.
