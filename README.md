@@ -1,8 +1,9 @@
 # Portal-Radio-ESP32
-![](Images/aV7yWG8_700bwp.webp)
 This repository contains all files related to the functional Portal Radio utilizing the ESP32, ILI9341 TFT display , a rotary encoder, YX5300 Serial audio, separate bluetooth audio module MH-M28, and the PAM8610 audio amplifier. Intended for reproducing this project and/or modifications.
 
 Please note that the original .stl files are form Alex I. Who uploaded it on myminifactory.com this derectory only contains modified files from project. Please see the link for the original files: https://www.myminifactory.com/object/3d-print-portal-radio-50006
+
+![](Images/aV7yWG8_700bwp.webp)\
 
 Features:\
 This is a small radio meant to mimic the behavior of the radio in the game portal. Thus it has the following features: it can function as a bleuthooth speaker, play the og portal radio song, or play the end credit songs, and all 27 eastereges are included in the higher channels, next to the channel control there is volume and brightness(toggling these modes is done via pressing the encoder.).
