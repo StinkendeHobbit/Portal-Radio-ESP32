@@ -27,7 +27,7 @@ Simply follow the wiring diagram in the for the pcb(note don't forget to add a e
 Lastely, make a note: HUGE SUCCES!
 
 Requirements/features for Version 2:\
--Motivation\
+-Motivation(or a cake)\
 -battery with 12v/5v out\
 -280 jpgs to visualize the channel or a libray which an print warped text.\
 -fast jpg decoder to achieve minimal of 30hz\
