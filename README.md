@@ -3,23 +3,23 @@ This repository contains all files related to the functional Portal Radio utiliz
 
 Please note that the original .stl files are form Alex I. Who uploaded it on myminifactory.com this derectory only contains modified files from project. Please see the link for the original files: https://www.myminifactory.com/object/3d-print-portal-radio-50006
 
-Bill of Materials:
-esp32 dev v1
-2.2 inch TFT Display 240*320px ILI9341
-YX5300 Serial audio decoder inc 3.5mm jack
-MH-M28 Bluethooth audio module
-custom pcb
-PAM8610 2x15W audio amplifier 12V
-dc-dc buck converter 12v-5v
-12V3A power supply
-2 Full-range 10watt 8ohm speakers
-26 WS2812B 144LEDS/M
-1pdt switch
-3pdt switch
-female barreljack connector
-Rotary Encoder EC11 20mm
-some male-male 3.5mm jack wires
-groundloop isolator(helps angainst noise)
+Bill of Materials:\
+-esp32 dev v1\
+-2.2 inch TFT Display 240*320px ILI9341
+-YX5300 Serial audio decoder inc 3.5mm jack
+-MH-M28 Bluethooth audio module
+-custom pcb
+-PAM8610 2x15W audio amplifier 12V
+-dc-dc buck converter 12v-5v
+-12V3A power supply
+-2 Full-range 10watt 8ohm speakers
+-26 WS2812B 144LEDS/M
+-1pdt switch
+-3pdt switch
+-female barreljack connector
+-Rotary Encoder EC11 20mm
+-some male-male 3.5mm jack wires
+-groundloop isolator(helps angainst noise)
 other components are already noted on Alex I myminifactory page.
 
 Wiring:
